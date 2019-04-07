@@ -1,0 +1,10 @@
+// Header
+
+@import "../../scss/Base/config";
+
+header {
+  display: flex;
+  padding: 10px;
+  background: $app-grey-3;
+  border-bottom: 2px solid $app-grey-2;
+}
